@@ -1,0 +1,5 @@
+*
+!./src/*
+!./resources/*
+!./lib/*
+!IdeaPlugin.iml

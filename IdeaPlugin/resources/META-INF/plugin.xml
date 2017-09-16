@@ -1,0 +1,48 @@
+<idea-plugin>
+  <id>com.ljea.project</id>
+  <name>LJEA</name>
+  <version>1.0</version>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+  <description><![CDATA[
+      Enter short description for your plugin here.<br>
+      <em>most HTML tags may be used</em>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>
+    ]]>
+  </change-notes>
+
+
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="145.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+  <extensions defaultExtensionNs="com.intellij">
+        <codeInsight.lineMarkerProvider language="JAVA" implementationClass="EnergyModule.LineMarker.EnergyLineMarkerProvider"/>
+        <toolWindow id="Energy Graph Window" icon="/EnergyModule/FileIcon/circle-16.png" anchor="right" factoryClass="EnergyModule.Graph.Factory.EnergyGraphFactory"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+    <group id="MenuBarObjects" text="Energy Module" description="Plugin actions">
+      <action id="EnergyModule.EnableTimePoint" class="EnergyModule.Action.EnableTimePoints" text="Enable TimePoint Logging" description="Enable Logging" />
+      <add-to-group group-id="MainMenu" anchor="last"/>
+    </group>
+
+    <group id="Generate.TimePoint" description="Generate Time Point" text="Generate Time Point" popup="false">
+      <action id="EnergyModule.Generate" class="EnergyModule.Action.GenerateTimeCode" text="Time Point" />
+      <action id="EnergyModule.PrintTimes" class="EnergyModule.Action.GeneratePrintCode" text="Print Points" />
+      <add-to-group anchor="last" group-id="ToolsMenu"/>
+      <add-to-group anchor="last" group-id="GenerateGroup"/>
+    </group>
+  </actions>
+
+</idea-plugin>
