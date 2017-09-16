@@ -1,0 +1,66 @@
+#########################RUN:0#########################
+0, 2017:06:10 15:14:27.130, STARTPOINT, N/A, N/A, 1000
+1, 2017:06:10 15:14:27.297, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+2, 2017:06:10 15:14:27.441, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+3, 2017:06:10 15:14:32.614, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+4, 2017:06:10 15:15:03.411, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+5, 2017:06:10 15:15:08.503, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+6, 2017:06:10 15:15:08.514, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+7, 2017:06:10 15:15:08.580, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+8, 2017:06:10 15:15:13.687, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+9, 2017:06:10 15:15:13.802, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+10, 2017:06:10 15:15:18.864, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+11, 2017:06:10 15:15:18.865, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+12, 2017:06:10 15:15:18.929, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+13, 2017:06:10 15:15:23.976, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+14, 2017:06:10 15:24:03.807, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+15, 2017:06:10 15:24:08.871, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+16, 2017:06:10 15:24:08.873, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+17, 2017:06:10 15:24:08.943, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+18, 2017:06:10 15:24:13.990, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+19, 2017:06:10 15:24:14.067, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+20, 2017:06:10 15:24:19.129, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+#########################RUN:1#########################
+0, 2017:06:10 15:24:24.523, STARTPOINT, N/A, N/A, 1000
+1, 2017:06:10 15:24:24.720, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+2, 2017:06:10 15:24:24.855, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+3, 2017:06:10 15:24:29.984, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+4, 2017:06:10 15:25:00.922, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+5, 2017:06:10 15:25:06.004, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+6, 2017:06:10 15:25:06.016, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+7, 2017:06:10 15:25:06.090, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+8, 2017:06:10 15:25:11.168, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+9, 2017:06:10 15:25:11.285, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+10, 2017:06:10 15:25:16.345, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+11, 2017:06:10 15:25:16.346, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+12, 2017:06:10 15:25:16.419, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+13, 2017:06:10 15:25:21.466, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+14, 2017:06:10 15:34:04.612, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+15, 2017:06:10 15:34:09.690, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+16, 2017:06:10 15:34:09.691, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+17, 2017:06:10 15:34:09.764, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+18, 2017:06:10 15:34:14.807, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+19, 2017:06:10 15:34:14.874, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+20, 2017:06:10 15:34:19.936, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+#########################RUN:2#########################
+0, 2017:06:10 15:34:25.183, STARTPOINT, N/A, N/A, 1000
+1, 2017:06:10 15:34:25.385, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+2, 2017:06:10 15:34:25.522, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+3, 2017:06:10 15:34:30.659, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+4, 2017:06:10 15:35:02.164, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+5, 2017:06:10 15:35:07.245, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+6, 2017:06:10 15:35:07.260, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+7, 2017:06:10 15:35:07.327, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+8, 2017:06:10 15:35:12.381, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+9, 2017:06:10 15:35:12.483, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+10, 2017:06:10 15:35:17.541, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+11, 2017:06:10 15:35:17.542, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+12, 2017:06:10 15:35:17.616, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+13, 2017:06:10 15:35:22.700, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+14, 2017:06:10 15:44:05.248, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+15, 2017:06:10 15:44:10.315, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141
+16, 2017:06:10 15:44:10.316, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 88
+17, 2017:06:10 15:44:10.384, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 104
+18, 2017:06:10 15:44:15.430, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 114
+19, 2017:06:10 15:44:15.505, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 135
+20, 2017:06:10 15:44:20.565, file:///home/kd913/IndividualProject/CustomTests/SortingJava/src/com/IndividualProject/Main.java, Main.java, 141

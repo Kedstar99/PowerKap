@@ -1,0 +1,4 @@
+*.iws
+.idea/workspace.xml
+# tasks.xml
+out/

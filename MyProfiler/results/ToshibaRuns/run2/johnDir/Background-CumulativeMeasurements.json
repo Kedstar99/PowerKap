@@ -1,0 +1,5698 @@
+[
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3252217,
+                        "max": 3449802,
+                        "min": 3131705,
+                        "stddev": 172486
+                    },
+                    "EnergyTotal": 3252217,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 314128,
+                            "max": 409085,
+                            "min": 258714,
+                            "stddev": 82617
+                        },
+                        "EnergyTotal": 314128,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 245383,
+                            "max": 263760,
+                            "min": 235965,
+                            "stddev": 15917
+                        },
+                        "EnergyTotal": 245383,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 48334
+            }
+        },
+        "ElapsedTime (ms)": 1000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2873590,
+                        "max": 2949045,
+                        "min": 2822760,
+                        "stddev": 66647
+                    },
+                    "EnergyTotal": 6125807,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 108248,
+                            "max": 110250,
+                            "min": 105495,
+                            "stddev": 2465
+                        },
+                        "EnergyTotal": 422376,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 153993,
+                            "max": 154485,
+                            "min": 153693,
+                            "stddev": 430
+                        },
+                        "EnergyTotal": 399376,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 48000
+            }
+        },
+        "ElapsedTime (ms)": 2000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2909836,
+                        "max": 2962229,
+                        "min": 2818416,
+                        "stddev": 79453
+                    },
+                    "EnergyTotal": 9035643,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 138842,
+                            "max": 193663,
+                            "min": 106196,
+                            "stddev": 47764
+                        },
+                        "EnergyTotal": 561218,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152036,
+                            "max": 152091,
+                            "min": 151940,
+                            "stddev": 83
+                        },
+                        "EnergyTotal": 551412,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 47667
+            }
+        },
+        "ElapsedTime (ms)": 3000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3953021,
+                        "max": 4120971,
+                        "min": 3854511,
+                        "stddev": 146174
+                    },
+                    "EnergyTotal": 12988664,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 607175,
+                            "max": 669965,
+                            "min": 571649,
+                            "stddev": 54534
+                        },
+                        "EnergyTotal": 1168393,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 502752,
+                            "max": 530753,
+                            "min": 486701,
+                            "stddev": 24336
+                        },
+                        "EnergyTotal": 1054164,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 47334
+            }
+        },
+        "ElapsedTime (ms)": 4000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2864028,
+                        "max": 2935419,
+                        "min": 2814789,
+                        "stddev": 63293
+                    },
+                    "EnergyTotal": 15852692,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 107386,
+                            "max": 110266,
+                            "min": 103178,
+                            "stddev": 3726
+                        },
+                        "EnergyTotal": 1275779,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152870,
+                            "max": 154439,
+                            "min": 152000,
+                            "stddev": 1362
+                        },
+                        "EnergyTotal": 1207034,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 47334
+            }
+        },
+        "ElapsedTime (ms)": 5000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2875866,
+                        "max": 2927691,
+                        "min": 2830854,
+                        "stddev": 48777
+                    },
+                    "EnergyTotal": 18728558,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 114040,
+                            "max": 119670,
+                            "min": 111042,
+                            "stddev": 4879
+                        },
+                        "EnergyTotal": 1389819,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 154149,
+                            "max": 155445,
+                            "min": 152106,
+                            "stddev": 1791
+                        },
+                        "EnergyTotal": 1361183,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 59667,
+                "x86_pkg_temp": 47000
+            }
+        },
+        "ElapsedTime (ms)": 6000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2878832,
+                        "max": 2919561,
+                        "min": 2826830,
+                        "stddev": 47382
+                    },
+                    "EnergyTotal": 21607390,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 121678,
+                            "max": 145751,
+                            "min": 106426,
+                            "stddev": 21094
+                        },
+                        "EnergyTotal": 1511497,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152040,
+                            "max": 152046,
+                            "min": 152031,
+                            "stddev": 8
+                        },
+                        "EnergyTotal": 1513223,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 49000
+            }
+        },
+        "ElapsedTime (ms)": 7000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2863997,
+                        "max": 2933865,
+                        "min": 2809361,
+                        "stddev": 63634
+                    },
+                    "EnergyTotal": 24471387,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 110855,
+                            "max": 121057,
+                            "min": 99169,
+                            "stddev": 11019
+                        },
+                        "EnergyTotal": 1622352,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152132,
+                            "max": 152167,
+                            "min": 152107,
+                            "stddev": 31
+                        },
+                        "EnergyTotal": 1665355,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 47000
+            }
+        },
+        "ElapsedTime (ms)": 8000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2879555,
+                        "max": 2984226,
+                        "min": 2815917,
+                        "stddev": 91350
+                    },
+                    "EnergyTotal": 27350942,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 125946,
+                            "max": 167593,
+                            "min": 103925,
+                            "stddev": 36088
+                        },
+                        "EnergyTotal": 1748298,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152051,
+                            "max": 152198,
+                            "min": 151895,
+                            "stddev": 151
+                        },
+                        "EnergyTotal": 1817406,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 47000
+            }
+        },
+        "ElapsedTime (ms)": 9000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2854029,
+                        "max": 2912998,
+                        "min": 2805658,
+                        "stddev": 54449
+                    },
+                    "EnergyTotal": 30204971,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 103305,
+                            "max": 107888,
+                            "min": 97507,
+                            "stddev": 5296
+                        },
+                        "EnergyTotal": 1851603,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152071,
+                            "max": 152152,
+                            "min": 151985,
+                            "stddev": 83
+                        },
+                        "EnergyTotal": 1969477,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46334
+            }
+        },
+        "ElapsedTime (ms)": 10000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2852875,
+                        "max": 2906946,
+                        "min": 2811282,
+                        "stddev": 49038
+                    },
+                    "EnergyTotal": 33057846,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 104134,
+                            "max": 108223,
+                            "min": 101486,
+                            "stddev": 3592
+                        },
+                        "EnergyTotal": 1955737,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152066,
+                            "max": 152092,
+                            "min": 152046,
+                            "stddev": 23
+                        },
+                        "EnergyTotal": 2121543,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46334
+            }
+        },
+        "ElapsedTime (ms)": 11000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2849481,
+                        "max": 2904995,
+                        "min": 2796771,
+                        "stddev": 54166
+                    },
+                    "EnergyTotal": 35907327,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 102736,
+                            "max": 110281,
+                            "min": 94337,
+                            "stddev": 8006
+                        },
+                        "EnergyTotal": 2058473,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152141,
+                            "max": 152167,
+                            "min": 152121,
+                            "stddev": 23
+                        },
+                        "EnergyTotal": 2273684,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46667
+            }
+        },
+        "ElapsedTime (ms)": 12000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2882919,
+                        "max": 2965616,
+                        "min": 2835610,
+                        "stddev": 71866
+                    },
+                    "EnergyTotal": 38790246,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 129071,
+                            "max": 152992,
+                            "min": 113466,
+                            "stddev": 21034
+                        },
+                        "EnergyTotal": 2187544,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152057,
+                            "max": 152137,
+                            "min": 151955,
+                            "stddev": 93
+                        },
+                        "EnergyTotal": 2425741,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46000
+            }
+        },
+        "ElapsedTime (ms)": 13000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2852436,
+                        "max": 2915541,
+                        "min": 2813462,
+                        "stddev": 55152
+                    },
+                    "EnergyTotal": 41642682,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 107937,
+                            "max": 118012,
+                            "min": 101933,
+                            "stddev": 8779
+                        },
+                        "EnergyTotal": 2295481,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152051,
+                            "max": 152107,
+                            "min": 151941,
+                            "stddev": 95
+                        },
+                        "EnergyTotal": 2577792,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 14000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2841118,
+                        "max": 2888502,
+                        "min": 2812471,
+                        "stddev": 41334
+                    },
+                    "EnergyTotal": 44483800,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 99830,
+                            "max": 102904,
+                            "min": 96807,
+                            "stddev": 3048
+                        },
+                        "EnergyTotal": 2395311,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152096,
+                            "max": 152198,
+                            "min": 152030,
+                            "stddev": 89
+                        },
+                        "EnergyTotal": 2729888,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45334
+            }
+        },
+        "ElapsedTime (ms)": 15000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2868001,
+                        "max": 2891916,
+                        "min": 2851233,
+                        "stddev": 21263
+                    },
+                    "EnergyTotal": 47351801,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 120569,
+                            "max": 141131,
+                            "min": 104153,
+                            "stddev": 18834
+                        },
+                        "EnergyTotal": 2515880,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152112,
+                            "max": 152168,
+                            "min": 152077,
+                            "stddev": 49
+                        },
+                        "EnergyTotal": 2882000,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 16000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2869423,
+                        "max": 2894965,
+                        "min": 2829223,
+                        "stddev": 35237
+                    },
+                    "EnergyTotal": 50221224,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 118781,
+                            "max": 155384,
+                            "min": 99550,
+                            "stddev": 31712
+                        },
+                        "EnergyTotal": 2634661,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152066,
+                            "max": 152121,
+                            "min": 152000,
+                            "stddev": 61
+                        },
+                        "EnergyTotal": 3034066,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 17000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2867456,
+                        "max": 2891733,
+                        "min": 2827485,
+                        "stddev": 34881
+                    },
+                    "EnergyTotal": 53088680,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 118654,
+                            "max": 148464,
+                            "min": 100937,
+                            "stddev": 25968
+                        },
+                        "EnergyTotal": 2753315,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152091,
+                            "max": 152122,
+                            "min": 152046,
+                            "stddev": 40
+                        },
+                        "EnergyTotal": 3186157,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 18000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3117753,
+                        "max": 3487222,
+                        "min": 2858641,
+                        "stddev": 328500
+                    },
+                    "EnergyTotal": 56206433,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 290323,
+                            "max": 546071,
+                            "min": 132383,
+                            "stddev": 223515
+                        },
+                        "EnergyTotal": 3043638,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152076,
+                            "max": 152152,
+                            "min": 151955,
+                            "stddev": 106
+                        },
+                        "EnergyTotal": 3338233,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 47334
+            }
+        },
+        "ElapsedTime (ms)": 19000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3175626,
+                        "max": 3798174,
+                        "min": 2833766,
+                        "stddev": 540009
+                    },
+                    "EnergyTotal": 59382059,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 322490,
+                            "max": 741270,
+                            "min": 109181,
+                            "stddev": 362695
+                        },
+                        "EnergyTotal": 3366128,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152101,
+                            "max": 152137,
+                            "min": 152062,
+                            "stddev": 38
+                        },
+                        "EnergyTotal": 3490334,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46334
+            }
+        },
+        "ElapsedTime (ms)": 20000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2853930,
+                        "max": 2891535,
+                        "min": 2829780,
+                        "stddev": 33004
+                    },
+                    "EnergyTotal": 62235989,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 110821,
+                            "max": 120524,
+                            "min": 102984,
+                            "stddev": 8917
+                        },
+                        "EnergyTotal": 3476949,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152076,
+                            "max": 152122,
+                            "min": 151986,
+                            "stddev": 78
+                        },
+                        "EnergyTotal": 3642410,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 21000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2855836,
+                        "max": 2885209,
+                        "min": 2826006,
+                        "stddev": 29604
+                    },
+                    "EnergyTotal": 65091825,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 112394,
+                            "max": 132840,
+                            "min": 101211,
+                            "stddev": 17732
+                        },
+                        "EnergyTotal": 3589343,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152070,
+                            "max": 152137,
+                            "min": 152000,
+                            "stddev": 68
+                        },
+                        "EnergyTotal": 3794480,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45000
+            }
+        },
+        "ElapsedTime (ms)": 22000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3029349,
+                        "max": 3324491,
+                        "min": 2876094,
+                        "stddev": 255663
+                    },
+                    "EnergyTotal": 68121174,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 268713,
+                            "max": 556147,
+                            "min": 101302,
+                            "stddev": 250050
+                        },
+                        "EnergyTotal": 3858056,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152133,
+                            "max": 152183,
+                            "min": 152107,
+                            "stddev": 44
+                        },
+                        "EnergyTotal": 3946613,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46667
+            }
+        },
+        "ElapsedTime (ms)": 23000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2858414,
+                        "max": 2881036,
+                        "min": 2832958,
+                        "stddev": 24163
+                    },
+                    "EnergyTotal": 70979588,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 119605,
+                            "max": 144958,
+                            "min": 103151,
+                            "stddev": 22278
+                        },
+                        "EnergyTotal": 3977661,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152117,
+                            "max": 152229,
+                            "min": 151971,
+                            "stddev": 132
+                        },
+                        "EnergyTotal": 4098730,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45334
+            }
+        },
+        "ElapsedTime (ms)": 24000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2845899,
+                        "max": 2888791,
+                        "min": 2822806,
+                        "stddev": 37183
+                    },
+                    "EnergyTotal": 73825487,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 108136,
+                            "max": 115982,
+                            "min": 99229,
+                            "stddev": 8426
+                        },
+                        "EnergyTotal": 4085797,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152045,
+                            "max": 152106,
+                            "min": 151924,
+                            "stddev": 105
+                        },
+                        "EnergyTotal": 4250775,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45000
+            }
+        },
+        "ElapsedTime (ms)": 25000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2834432,
+                        "max": 2877268,
+                        "min": 2800414,
+                        "stddev": 39179
+                    },
+                    "EnergyTotal": 76659919,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 100710,
+                            "max": 102935,
+                            "min": 98026,
+                            "stddev": 2486
+                        },
+                        "EnergyTotal": 4186507,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152113,
+                            "max": 152122,
+                            "min": 152107,
+                            "stddev": 9
+                        },
+                        "EnergyTotal": 4402888,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44334
+            }
+        },
+        "ElapsedTime (ms)": 26000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2836199,
+                        "max": 2871354,
+                        "min": 2811297,
+                        "stddev": 31313
+                    },
+                    "EnergyTotal": 79496118,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 103375,
+                            "max": 105372,
+                            "min": 101760,
+                            "stddev": 1836
+                        },
+                        "EnergyTotal": 4289882,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152071,
+                            "max": 152213,
+                            "min": 151924,
+                            "stddev": 144
+                        },
+                        "EnergyTotal": 4554959,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44667
+            }
+        },
+        "ElapsedTime (ms)": 27000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2830397,
+                        "max": 2869449,
+                        "min": 2799225,
+                        "stddev": 35769
+                    },
+                    "EnergyTotal": 82326515,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 100166,
+                            "max": 102648,
+                            "min": 96364,
+                            "stddev": 3343
+                        },
+                        "EnergyTotal": 4390048,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152011,
+                            "max": 152122,
+                            "min": 151925,
+                            "stddev": 100
+                        },
+                        "EnergyTotal": 4706970,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45000
+            }
+        },
+        "ElapsedTime (ms)": 28000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2889350,
+                        "max": 2937248,
+                        "min": 2832195,
+                        "stddev": 53135
+                    },
+                    "EnergyTotal": 85215865,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 143881,
+                            "max": 167914,
+                            "min": 106852,
+                            "stddev": 32539
+                        },
+                        "EnergyTotal": 4533929,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152138,
+                            "max": 152183,
+                            "min": 152107,
+                            "stddev": 40
+                        },
+                        "EnergyTotal": 4859108,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 45667
+            }
+        },
+        "ElapsedTime (ms)": 29000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2921533,
+                        "max": 3099446,
+                        "min": 2829512,
+                        "stddev": 154107
+                    },
+                    "EnergyTotal": 88137398,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 165628,
+                            "max": 266535,
+                            "min": 106912,
+                            "stddev": 87778
+                        },
+                        "EnergyTotal": 4699557,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152163,
+                            "max": 152198,
+                            "min": 152121,
+                            "stddev": 39
+                        },
+                        "EnergyTotal": 5011271,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44000
+            }
+        },
+        "ElapsedTime (ms)": 30000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2840306,
+                        "max": 2879726,
+                        "min": 2819025,
+                        "stddev": 34175
+                    },
+                    "EnergyTotal": 90977704,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 108069,
+                            "max": 112567,
+                            "min": 99306,
+                            "stddev": 7589
+                        },
+                        "EnergyTotal": 4807626,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152092,
+                            "max": 152168,
+                            "min": 151986,
+                            "stddev": 94
+                        },
+                        "EnergyTotal": 5163363,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44667
+            }
+        },
+        "ElapsedTime (ms)": 31000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2855222,
+                        "max": 2867177,
+                        "min": 2839894,
+                        "stddev": 13951
+                    },
+                    "EnergyTotal": 93832926,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 119695,
+                            "max": 143251,
+                            "min": 102644,
+                            "stddev": 21070
+                        },
+                        "EnergyTotal": 4927321,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152163,
+                            "max": 152213,
+                            "min": 152091,
+                            "stddev": 63
+                        },
+                        "EnergyTotal": 5315526,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 46000
+            }
+        },
+        "ElapsedTime (ms)": 32000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2830417,
+                        "max": 2865516,
+                        "min": 2799515,
+                        "stddev": 33200
+                    },
+                    "EnergyTotal": 96663343,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 103249,
+                            "max": 106226,
+                            "min": 100235,
+                            "stddev": 2995
+                        },
+                        "EnergyTotal": 5030570,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152097,
+                            "max": 152153,
+                            "min": 152046,
+                            "stddev": 53
+                        },
+                        "EnergyTotal": 5467623,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44000
+            }
+        },
+        "ElapsedTime (ms)": 33000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2879656,
+                        "max": 2925404,
+                        "min": 2821373,
+                        "stddev": 53136
+                    },
+                    "EnergyTotal": 99542999,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 138008,
+                            "max": 186068,
+                            "min": 104351,
+                            "stddev": 42719
+                        },
+                        "EnergyTotal": 5168578,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152101,
+                            "max": 152122,
+                            "min": 152076,
+                            "stddev": 23
+                        },
+                        "EnergyTotal": 5619724,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43667
+            }
+        },
+        "ElapsedTime (ms)": 34000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2839132,
+                        "max": 2866537,
+                        "min": 2813874,
+                        "stddev": 26397
+                    },
+                    "EnergyTotal": 102382131,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 109778,
+                            "max": 120602,
+                            "min": 102308,
+                            "stddev": 9597
+                        },
+                        "EnergyTotal": 5278356,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 151990,
+                            "max": 152060,
+                            "min": 151955,
+                            "stddev": 60
+                        },
+                        "EnergyTotal": 5771714,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43667
+            }
+        },
+        "ElapsedTime (ms)": 35000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2833070,
+                        "max": 2873823,
+                        "min": 2808356,
+                        "stddev": 35559
+                    },
+                    "EnergyTotal": 105215201,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 104123,
+                            "max": 111012,
+                            "min": 99031,
+                            "stddev": 6189
+                        },
+                        "EnergyTotal": 5382479,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152158,
+                            "max": 152260,
+                            "min": 152092,
+                            "stddev": 89
+                        },
+                        "EnergyTotal": 5923872,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43667
+            }
+        },
+        "ElapsedTime (ms)": 36000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2855192,
+                        "max": 2916623,
+                        "min": 2813980,
+                        "stddev": 54227
+                    },
+                    "EnergyTotal": 108070393,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 120945,
+                            "max": 139118,
+                            "min": 108223,
+                            "stddev": 16152
+                        },
+                        "EnergyTotal": 5503424,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152056,
+                            "max": 152137,
+                            "min": 151940,
+                            "stddev": 103
+                        },
+                        "EnergyTotal": 6075928,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 37000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2848039,
+                        "max": 2931334,
+                        "min": 2797793,
+                        "stddev": 72647
+                    },
+                    "EnergyTotal": 110918432,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 114743,
+                            "max": 146254,
+                            "min": 97843,
+                            "stddev": 27314
+                        },
+                        "EnergyTotal": 5618167,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152147,
+                            "max": 152244,
+                            "min": 152091,
+                            "stddev": 84
+                        },
+                        "EnergyTotal": 6228075,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43667
+            }
+        },
+        "ElapsedTime (ms)": 38000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2888539,
+                        "max": 2901870,
+                        "min": 2868870,
+                        "stddev": 17389
+                    },
+                    "EnergyTotal": 113806971,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 144647,
+                            "max": 169055,
+                            "min": 127597,
+                            "stddev": 21686
+                        },
+                        "EnergyTotal": 5762814,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152062,
+                            "max": 152153,
+                            "min": 151986,
+                            "stddev": 84
+                        },
+                        "EnergyTotal": 6380137,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 39000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3051740,
+                        "max": 3426365,
+                        "min": 2808326,
+                        "stddev": 329250
+                    },
+                    "EnergyTotal": 116858711,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 257124,
+                            "max": 519563,
+                            "min": 105265,
+                            "stddev": 228214
+                        },
+                        "EnergyTotal": 6019938,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152122,
+                            "max": 152214,
+                            "min": 151971,
+                            "stddev": 132
+                        },
+                        "EnergyTotal": 6532259,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43667
+            }
+        },
+        "ElapsedTime (ms)": 40000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2882781,
+                        "max": 3017974,
+                        "min": 2808127,
+                        "stddev": 117293
+                    },
+                    "EnergyTotal": 119741492,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 141352,
+                            "max": 215975,
+                            "min": 103864,
+                            "stddev": 64627
+                        },
+                        "EnergyTotal": 6161290,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152025,
+                            "max": 152046,
+                            "min": 151985,
+                            "stddev": 35
+                        },
+                        "EnergyTotal": 6684284,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 41000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2843247,
+                        "max": 2909156,
+                        "min": 2803798,
+                        "stddev": 57448
+                    },
+                    "EnergyTotal": 122584739,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 112568,
+                            "max": 133938,
+                            "min": 101761,
+                            "stddev": 18508
+                        },
+                        "EnergyTotal": 6273858,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152157,
+                            "max": 152214,
+                            "min": 152091,
+                            "stddev": 62
+                        },
+                        "EnergyTotal": 6836441,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 42000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3178851,
+                        "max": 3474418,
+                        "min": 2816480,
+                        "stddev": 334017
+                    },
+                    "EnergyTotal": 125763590,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 418205,
+                            "max": 660239,
+                            "min": 103482,
+                            "stddev": 285407
+                        },
+                        "EnergyTotal": 6692063,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152132,
+                            "max": 152168,
+                            "min": 152106,
+                            "stddev": 32
+                        },
+                        "EnergyTotal": 6988573,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 43000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2852681,
+                        "max": 2879326,
+                        "min": 2820214,
+                        "stddev": 29983
+                    },
+                    "EnergyTotal": 128616271,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 117241,
+                            "max": 128465,
+                            "min": 104367,
+                            "stddev": 12133
+                        },
+                        "EnergyTotal": 6809304,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 156257,
+                            "max": 164606,
+                            "min": 152076,
+                            "stddev": 7230
+                        },
+                        "EnergyTotal": 7144830,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 44000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3054666,
+                        "max": 3412106,
+                        "min": 2830320,
+                        "stddev": 312896
+                    },
+                    "EnergyTotal": 131670937,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 266427,
+                            "max": 521546,
+                            "min": 121103,
+                            "stddev": 221653
+                        },
+                        "EnergyTotal": 7075731,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152010,
+                            "max": 152107,
+                            "min": 151910,
+                            "stddev": 98
+                        },
+                        "EnergyTotal": 7296840,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44000
+            }
+        },
+        "ElapsedTime (ms)": 45000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 3145130,
+                        "max": 3754687,
+                        "min": 2805856,
+                        "stddev": 529018
+                    },
+                    "EnergyTotal": 134816067,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 316002,
+                            "max": 727475,
+                            "min": 103330,
+                            "stddev": 356413
+                        },
+                        "EnergyTotal": 7391733,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152645,
+                            "max": 153616,
+                            "min": 152152,
+                            "stddev": 840
+                        },
+                        "EnergyTotal": 7449485,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 46000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2828833,
+                        "max": 2859724,
+                        "min": 2805917,
+                        "stddev": 27776
+                    },
+                    "EnergyTotal": 137644900,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 105215,
+                            "max": 107720,
+                            "min": 102171,
+                            "stddev": 2813
+                        },
+                        "EnergyTotal": 7496948,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152163,
+                            "max": 152199,
+                            "min": 152137,
+                            "stddev": 32
+                        },
+                        "EnergyTotal": 7601648,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 47000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2849312,
+                        "max": 2881566,
+                        "min": 2808613,
+                        "stddev": 37202
+                    },
+                    "EnergyTotal": 140494212,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 120943,
+                            "max": 144135,
+                            "min": 98643,
+                            "stddev": 22759
+                        },
+                        "EnergyTotal": 7617891,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152011,
+                            "max": 152060,
+                            "min": 151955,
+                            "stddev": 52
+                        },
+                        "EnergyTotal": 7753659,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 48000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2835951,
+                        "max": 2877375,
+                        "min": 2813767,
+                        "stddev": 35905
+                    },
+                    "EnergyTotal": 143330163,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 109581,
+                            "max": 118741,
+                            "min": 102416,
+                            "stddev": 8344
+                        },
+                        "EnergyTotal": 7727472,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152117,
+                            "max": 152168,
+                            "min": 152046,
+                            "stddev": 63
+                        },
+                        "EnergyTotal": 7905776,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43000
+            }
+        },
+        "ElapsedTime (ms)": 49000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2878580,
+                        "max": 2971697,
+                        "min": 2814422,
+                        "stddev": 82539
+                    },
+                    "EnergyTotal": 146208743,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 141153,
+                            "max": 208597,
+                            "min": 103760,
+                            "stddev": 58523
+                        },
+                        "EnergyTotal": 7868625,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152096,
+                            "max": 152168,
+                            "min": 152016,
+                            "stddev": 76
+                        },
+                        "EnergyTotal": 8057872,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 50000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2863008,
+                        "max": 2924673,
+                        "min": 2801624,
+                        "stddev": 61524
+                    },
+                    "EnergyTotal": 149071751,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 130937,
+                            "max": 177364,
+                            "min": 101567,
+                            "stddev": 40676
+                        },
+                        "EnergyTotal": 7999562,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152122,
+                            "max": 152213,
+                            "min": 152000,
+                            "stddev": 109
+                        },
+                        "EnergyTotal": 8209994,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42334
+            }
+        },
+        "ElapsedTime (ms)": 51000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2833851,
+                        "max": 2855700,
+                        "min": 2811893,
+                        "stddev": 21903
+                    },
+                    "EnergyTotal": 151905602,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 110128,
+                            "max": 121240,
+                            "min": 101272,
+                            "stddev": 10173
+                        },
+                        "EnergyTotal": 8109690,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152173,
+                            "max": 152245,
+                            "min": 152122,
+                            "stddev": 64
+                        },
+                        "EnergyTotal": 8362167,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 52000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2823187,
+                        "max": 2855883,
+                        "min": 2796771,
+                        "stddev": 30052
+                    },
+                    "EnergyTotal": 154728789,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 105190,
+                            "max": 112384,
+                            "min": 98834,
+                            "stddev": 6814
+                        },
+                        "EnergyTotal": 8214880,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152081,
+                            "max": 152152,
+                            "min": 152015,
+                            "stddev": 68
+                        },
+                        "EnergyTotal": 8514248,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 53000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2854551,
+                        "max": 2884233,
+                        "min": 2807288,
+                        "stddev": 41375
+                    },
+                    "EnergyTotal": 157583340,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 122733,
+                            "max": 144921,
+                            "min": 104367,
+                            "stddev": 20545
+                        },
+                        "EnergyTotal": 8337613,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 156315,
+                            "max": 164670,
+                            "min": 152091,
+                            "stddev": 7236
+                        },
+                        "EnergyTotal": 8670563,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 43334
+            }
+        },
+        "ElapsedTime (ms)": 54000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2840732,
+                        "max": 2849694,
+                        "min": 2823477,
+                        "stddev": 14946
+                    },
+                    "EnergyTotal": 160424072,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 117277,
+                            "max": 129502,
+                            "min": 106821,
+                            "stddev": 11443
+                        },
+                        "EnergyTotal": 8454890,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152035,
+                            "max": 152122,
+                            "min": 151894,
+                            "stddev": 123
+                        },
+                        "EnergyTotal": 8822598,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 55000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2830798,
+                        "max": 2842530,
+                        "min": 2810184,
+                        "stddev": 17909
+                    },
+                    "EnergyTotal": 163254870,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 109859,
+                            "max": 120401,
+                            "min": 101913,
+                            "stddev": 9513
+                        },
+                        "EnergyTotal": 8564749,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152737,
+                            "max": 153814,
+                            "min": 152137,
+                            "stddev": 935
+                        },
+                        "EnergyTotal": 8975335,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 56000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2824390,
+                        "max": 2857204,
+                        "min": 2805169,
+                        "stddev": 28557
+                    },
+                    "EnergyTotal": 166079260,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 107148,
+                            "max": 116856,
+                            "min": 99062,
+                            "stddev": 9007
+                        },
+                        "EnergyTotal": 8671897,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152097,
+                            "max": 152168,
+                            "min": 152016,
+                            "stddev": 76
+                        },
+                        "EnergyTotal": 9127432,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42000
+            }
+        },
+        "ElapsedTime (ms)": 57000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2822511,
+                        "max": 2861263,
+                        "min": 2792533,
+                        "stddev": 35195
+                    },
+                    "EnergyTotal": 168901771,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 103503,
+                            "max": 113588,
+                            "min": 95709,
+                            "stddev": 9157
+                        },
+                        "EnergyTotal": 8775400,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152031,
+                            "max": 152167,
+                            "min": 151940,
+                            "stddev": 120
+                        },
+                        "EnergyTotal": 9279463,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42000
+            }
+        },
+        "ElapsedTime (ms)": 58000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2834853,
+                        "max": 2871918,
+                        "min": 2815123,
+                        "stddev": 32122
+                    },
+                    "EnergyTotal": 171736624,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 111506,
+                            "max": 121454,
+                            "min": 103086,
+                            "stddev": 9278
+                        },
+                        "EnergyTotal": 8886906,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152091,
+                            "max": 152138,
+                            "min": 152031,
+                            "stddev": 55
+                        },
+                        "EnergyTotal": 9431554,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 59000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2820657,
+                        "max": 2847240,
+                        "min": 2801923,
+                        "stddev": 23656
+                    },
+                    "EnergyTotal": 174557281,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 102441,
+                            "max": 105495,
+                            "min": 100251,
+                            "stddev": 2726
+                        },
+                        "EnergyTotal": 8989347,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152143,
+                            "max": 152153,
+                            "min": 152137,
+                            "stddev": 9
+                        },
+                        "EnergyTotal": 9583697,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 60000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2849882,
+                        "max": 2921396,
+                        "min": 2806084,
+                        "stddev": 62452
+                    },
+                    "EnergyTotal": 177407163,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 126154,
+                            "max": 162701,
+                            "min": 99947,
+                            "stddev": 32629
+                        },
+                        "EnergyTotal": 9115501,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152095,
+                            "max": 152137,
+                            "min": 152045,
+                            "stddev": 47
+                        },
+                        "EnergyTotal": 9735792,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42000
+            }
+        },
+        "ElapsedTime (ms)": 61000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2828967,
+                        "max": 2857768,
+                        "min": 2807929,
+                        "stddev": 25810
+                    },
+                    "EnergyTotal": 180236130,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 109877,
+                            "max": 115134,
+                            "min": 106623,
+                            "stddev": 4596
+                        },
+                        "EnergyTotal": 9225378,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 151934,
+                            "max": 152015,
+                            "min": 151880,
+                            "stddev": 71
+                        },
+                        "EnergyTotal": 9887726,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 44667
+            }
+        },
+        "ElapsedTime (ms)": 62000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2824854,
+                        "max": 2835320,
+                        "min": 2815154,
+                        "stddev": 10104
+                    },
+                    "EnergyTotal": 183060984,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 104910,
+                            "max": 114121,
+                            "min": 96960,
+                            "stddev": 8649
+                        },
+                        "EnergyTotal": 9330288,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 152142,
+                            "max": 152198,
+                            "min": 152076,
+                            "stddev": 61
+                        },
+                        "EnergyTotal": 10039868,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42000
+            }
+        },
+        "ElapsedTime (ms)": 63000
+    },
+    {
+        "Data": {
+            "CPUData": {
+                "PackageOne": {
+                    "EnergyCounter": {
+                        "avg": 2860318,
+                        "max": 2925984,
+                        "min": 2804652,
+                        "stddev": 61281
+                    },
+                    "EnergyTotal": 185921302,
+                    "Name": "package-0",
+                    "PowerCounter": {
+                        "avg": 0,
+                        "max": 0,
+                        "min": 0,
+                        "stddev": 0
+                    },
+                    "core": {
+                        "EnergyCounter": {
+                            "avg": 128704,
+                            "max": 150293,
+                            "min": 96609,
+                            "stddev": 28342
+                        },
+                        "EnergyTotal": 9458992,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    },
+                    "uncore": {
+                        "EnergyCounter": {
+                            "avg": 156431,
+                            "max": 165047,
+                            "min": 152107,
+                            "stddev": 7462
+                        },
+                        "EnergyTotal": 10196299,
+                        "PowerCounter": {
+                            "avg": 0,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0
+                        }
+                    }
+                }
+            },
+            "DiskData": {
+                "ReadBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReadTotal": 0,
+                "WriteBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "WriteTotal": 0
+            },
+            "NetworkData": {
+                "ReceivedBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "ReceivedTotal": 0,
+                "SentBytes": {
+                    "avg": 0,
+                    "max": 0,
+                    "min": 0,
+                    "stddev": 0
+                },
+                "SentTotal": 0
+            },
+            "ThermalData": {
+                "acpitz": 56000,
+                "x86_pkg_temp": 42667
+            }
+        },
+        "ElapsedTime (ms)": 64000
+    }
+]
