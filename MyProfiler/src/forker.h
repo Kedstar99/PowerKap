@@ -16,6 +16,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <linux/sched.h>
 
 #define NAMESPACE_LOCATION "/var/run/netns/test_ns"
 #define SLEEP_PROG         "/bin/sleep"
@@ -34,7 +35,7 @@ namespace forker {
 
     // Force kills a child process. Sends sigterm and waits 20 seconds before sending a sigkill.
     void killProcess(Profiler* profiler);
-};  
+}  
 
 namespace {
     pid_t pid;
