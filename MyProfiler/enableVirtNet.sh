@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 echo "Welcome to my script to create a test interface:"
 echo "First please pick a number corresponding to the interface you wish 
@@ -10,11 +10,11 @@ ip link show |grep UP
  	exit
  fi
 
-read -n 1 -p "Input Selection:" interface
+read -r -n 1 -p "Input Selection:" interface
 
 input="${interface}:"
 
-stringInterface="$(ip link show |grep $input)"
+stringInterface="$(ip link show |grep "$input")"
 
 cutVal=${stringInterface#*:}
 chosenInterface=${cutVal%%:*}
@@ -42,8 +42,8 @@ localIP="$(hostname -I)"
 
 getIP=${localIP%% *}
 
-echo $chosenInterface
-echo ${getIP}
-iptables -t nat -A POSTROUTING -s 192.168.163.0/24 -o $chosenInterface -j SNAT --to-source $getIP
-iptables -A FORWARD -i $chosenInterface -o veth-b -j ACCEPT
-iptables -A FORWARD -o $chosenInterface -i veth-b -j ACCEPT
+echo "$chosenInterface"
+echo "${getIP}"
+iptables -t nat -A POSTROUTING -s 192.168.163.0/24 -o "$chosenInterface" -j SNAT --to-source "$getIP"
+iptables -A FORWARD -i "$chosenInterface" -o veth-b -j ACCEPT
+iptables -A FORWARD -o "$chosenInterface" -i veth-b -j ACCEPT
